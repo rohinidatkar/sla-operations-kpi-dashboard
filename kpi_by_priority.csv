@@ -1,0 +1,5 @@
+priority,sla_hours,tickets,avg_resolution_hours,sla_compliance_pct
+Critical,4,405,4.1,61.2
+High,8,1141,8.0,62.7
+Medium,24,2244,24.3,60.7
+Low,48,1151,51.3,57.3

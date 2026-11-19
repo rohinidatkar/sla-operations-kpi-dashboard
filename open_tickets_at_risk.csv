@@ -1,0 +1,24 @@
+ticket_id,priority,category,created_at,sla_hours,hours_open,pct_of_sla_used,flag
+TCK-02169,Low,Billing,2026-03-26 17:10:00,48,138.8,289.0,Breached
+TCK-02828,Low,Network,2026-03-27 09:01:00,48,123.0,256.0,Breached
+TCK-00965,Low,Hardware,2026-03-27 21:32:00,48,110.5,230.0,Breached
+TCK-03211,Low,Access,2026-03-28 21:51:00,48,86.1,179.0,Breached
+TCK-01243,Low,Network,2026-03-29 04:11:00,48,79.8,166.0,Breached
+TCK-01676,Medium,Billing,2026-03-30 23:58:00,24,36.0,150.0,Breached
+TCK-04761,Low,Software,2026-03-29 12:35:00,48,71.4,149.0,Breached
+TCK-00797,Low,Hardware,2026-03-29 15:10:00,48,68.8,143.0,Breached
+TCK-03944,Low,Network,2026-03-29 17:39:00,48,66.4,138.0,Breached
+TCK-03912,Low,Network,2026-03-29 20:22:00,48,63.6,133.0,Breached
+TCK-03511,Low,Hardware,2026-03-29 21:46:00,48,62.2,130.0,Breached
+TCK-04652,Medium,Access,2026-03-31 05:39:00,24,30.4,126.0,Breached
+TCK-04524,Medium,Network,2026-03-31 07:08:00,24,28.9,120.0,Breached
+TCK-00325,Low,Billing,2026-03-30 06:02:00,48,54.0,112.0,Breached
+TCK-01962,Medium,Network,2026-03-31 11:14:00,24,24.8,103.0,Breached
+TCK-02880,Low,Network,2026-03-30 10:27:00,48,49.5,103.0,Breached
+TCK-02803,Medium,Hardware,2026-03-31 12:29:00,24,23.5,98.0,At risk
+TCK-00691,High,Hardware,2026-04-01 04:44:00,8,7.3,91.0,At risk
+TCK-04253,Low,Hardware,2026-03-30 17:01:00,48,43.0,90.0,At risk
+TCK-04693,Medium,Network,2026-03-31 15:21:00,24,20.6,86.0,At risk
+TCK-04266,Medium,Network,2026-03-31 16:02:00,24,20.0,83.0,At risk
+TCK-02555,Low,Access,2026-03-30 20:38:00,48,39.4,82.0,At risk
+TCK-04089,Low,Network,2026-03-30 23:18:00,48,36.7,76.0,At risk
